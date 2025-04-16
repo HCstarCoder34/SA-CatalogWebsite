@@ -1,0 +1,76 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "rug3",
+        "price": 60.00,
+        "image": { "fields": { "file": {
+           "url": "./images/rug3.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "rug4",
+        "price": 65.00,
+        "image": { "fields": { "file": { 
+          "url": "./images/rug4.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "sofa1",
+        "price": 125.00,
+        "image": { "fields": { "file": { "url": 
+        "./images/sofa1.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "sofa3",
+        "price": 76.00,
+        "image": { "fields": { "file": { 
+          "url": "./images/sofa3.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "table1",
+        "price": 85.00,
+        "image": { "fields": { "file": { 
+          "url": "./images/table1.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "table2",
+        "price": 63.00,
+        "image": { "fields": { "file": { 
+          "url": "./images/table2.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "WallArt1",
+        "price": 18.00,
+        "image": { "fields": { "file": { 
+          "url": "./images/WallArt1.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "WallArt3",
+        "price": 31.00,
+        "image": { "fields": { "file": { 
+          "url": "./images/WallArt3.webp" } } }
+      }
+    }
+  ]
+}
